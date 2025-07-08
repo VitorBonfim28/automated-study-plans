@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como trabalho final do curso de Engenharia de Prom
    - Acesse https://openrouter.ai/
    - Gere uma chave de API gratuita
    - Cole no local indicado no notebook
-3. Faça upload da sua planilha (`sheet_prompt_var.xlsx`)
+3. Faça o upload da planilha sheet_prompt_var.xlsx no ambiente de execução (como Google Colab) e adapte seu conteúdo de acordo com o contexto desejado.
 4. Execute o notebook. O `.txt` será baixado automaticamente e o PDF ficará salvo no ambiente.
 
 
